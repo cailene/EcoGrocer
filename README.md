@@ -48,4 +48,4 @@ Once this project is at a possible stage where development is complete, we'll br
 
 [1st Take!](https://github.com/NightingaleX03/ByteMe)
 
-[Slides](EcoGrocer/Byte_Me.pdf)
+[Slides](Byte_Me.pdf)
