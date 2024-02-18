@@ -12,6 +12,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:backgroundTint="@color/green"
         android:orientation="horizontal">
 
         <com.google.android.material.button.MaterialButton
@@ -52,7 +53,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/baseline_image_24"
-                android:tint="@color/green"
                 android:adjustViewBounds="true"
                 app:strokeWidth="2dp"/>
 
