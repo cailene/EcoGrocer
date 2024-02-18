@@ -45,4 +45,7 @@ Once this project is at a possible stage where development is complete, we'll br
 
 ## Try it out
 [Protoype](https://www.figma.com/proto/mO7io1dZh9R5XXLbx7xAOW/Byte-me?type=design&node-id=58-4937&t=QRtxC173aEAx2Atn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=58%3A4937&show-proto-sidebar=1&mode=design)
+
 [1st Take!](https://github.com/NightingaleX03/ByteMe)
+
+[Slides](EcoGrocer/Byte_Me.pdf)
