@@ -1,4 +1,4 @@
-#EcoGrocer
+##EcoGrocer
 ---
 *founded by: Cailene Magat, Carmen Lam, Francesca Ysabelle Galang, and Sarah Mathew*
 
