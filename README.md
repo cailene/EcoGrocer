@@ -42,3 +42,7 @@ Some skillsets that we have learned or are in the process of learning are:
 ## What's next for EcoGrocer
 Although EcoGrocer started as a hackathon idea for the prompt "4 seasons" we plan to expand EcoGrocer to a fully functional app as we see a future where this app can be successful in reducing food wastage, over consumption/overbuying of groceries and helping the homeless in terms of food bank donations. We plan to continue developing this app for the possibility of launching it one day and plan to follow the above to-do list (as seen in the section *"What it does"*). Although most of the to-do list has skills that most of us do not possess we plan to learn more about the skill set we need to develop this and bring this project to life. 
 Once this project is at a possible stage where development is complete, we'll bring this app to possible investors who are willing to hear our pitch and help us bring this app to life. 
+
+## Try it out
+[Protoype](https://www.figma.com/proto/mO7io1dZh9R5XXLbx7xAOW/Byte-me?type=design&node-id=58-4937&t=QRtxC173aEAx2Atn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=58%3A4937&show-proto-sidebar=1&mode=design)
+[1st Take!](https://github.com/NightingaleX03/ByteMe)
