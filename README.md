@@ -12,9 +12,9 @@ We know how high food prices are right now so we discussed when overconsumption 
 EcoGrocer helps combat the overall goal of reducing food wastage while also providing a secondary solution of helping the homeless by directing app users to possible food bank locations nearby (in hopes of donating non-perishable foods). 
 
 Some functionalities that we've implemented/planned to implement are:
-- [ ] Use Google ML Kit to help convert receipts captured by camera to text
-- [ ] Generate a list of groceries from the converted List received
-- [ ] Added functionality where user can manually add expiration dates or the app generates estimated dates (through a database list)
+- [ ] Use Google ML Kit to convert receipts captured by camera to text
+- [ ] Generate a list of groceries by parsing the converted image to text
+- [ ] Users can manually add expiration dates otherwise the app generates estimated dates (through a database list)
 - [ ] Users have access to mark Groceries as "done" as per usage
 - [ ] App gererates alerts on when food items expire
 - [ ] User also has the flexibility of possible recipes to finish certain grocery items (planned to implement this with web scraping) 
