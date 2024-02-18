@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="10dp"
+    android:background="@color/white"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -15,16 +16,20 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/inputImageBtn"
-            android:text="Take Picture"
-            app:cornerRadius="5dp"
-            app:icon="@drawable/baseline_add_a_photo_24"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
+            android:backgroundTint="@color/green"
+            android:text="Take Picture"
+            android:textStyle="bold"
+            app:cornerRadius="5dp"
+            app:icon="@drawable/baseline_add_a_photo_24" />
         <com.google.android.material.button.MaterialButton
             android:id="@+id/recognizeTextBtn"
             android:layout_width="match_parent"
+            android:backgroundTint="@color/green"
+            android:textStyle="bold"
             app:cornerRadius="5dp"
             app:icon="@drawable/baseline_document_scanner_24"
             android:layout_weight="1"
@@ -47,6 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/baseline_image_24"
+                android:tint="@color/green"
                 android:adjustViewBounds="true"
                 app:strokeWidth="2dp"/>
 
@@ -55,15 +61,21 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="Recognized Text:"/>
+                android:textStyle="bold"
+                android:text="Recognized Text:"
+                />
 
             <!-- EditText: -->
             <EditText
                 android:id="@+id/recognizeTextEt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="12sp"
-                android:inputType="text"/>
+                android:layout_marginBottom="20dp"
+                android:fontFamily="sans-serif"
+                android:gravity="start"
+                android:maxLines="10"
+                android:scrollbars="vertical"
+                android:textSize="12sp" />
 
         </LinearLayout>
 
